@@ -3,7 +3,7 @@ clear all;
 rawFaces = imread('assets/faces.jpg');
 % imshow(rawFaces);
 
-detector = vision.CascadeObjectDetector('Mouth');
+detector = vision.CascadeObjectDetector();
 
 faceBoundingBox = step(detector, rawFaces);
 

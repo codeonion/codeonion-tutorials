@@ -1,4 +1,5 @@
 close all;
+clear all;
 a = imread('assets/balls.jpg');
 
 red = a(:,:,1);

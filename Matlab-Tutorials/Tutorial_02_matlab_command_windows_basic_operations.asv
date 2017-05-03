@@ -1,6 +1,0 @@
-clc;
-clear;
-
-disp('Hello World!');
-
-x = [2 3 4]

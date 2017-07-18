@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Spinner
+        android:id="@+id/spinner_oldssguide_chapters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/oldssguide_chapters"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/button_oldssguide_showChapterText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_below="@+id/spinner_oldssguide_chapters"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

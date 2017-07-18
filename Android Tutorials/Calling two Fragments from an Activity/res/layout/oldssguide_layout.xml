@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment class="com.codeonion.myproject.OldSSGuide_fragment_spinner"
+        android:id="@+id/fragment_oldssguide_spinner_chapters"
+        android:layout_weight="5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/oldssguide_top_spinner_layout" />
+
+    <fragment class="com.codeonion.myproject.OldSSGuide_fragment_textOfChapter"
+        android:id="@+id/fragment_oldssguide_text_chapters"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/oldssguide_bottom_text_layout" />
+</LinearLayout>

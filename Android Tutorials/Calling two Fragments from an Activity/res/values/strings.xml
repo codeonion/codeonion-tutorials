@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="menu_button_openoldssGuide">Old STALKERSOUP Guide</string>
+    <string name="menu_button_opennewdssGuide">New STALKERSOUP Guide</string>
+    <string name="menu_button_openssMaps">Maps</string>
+    <string name="menu_button_openssWebsite">STALKERSOUP Website</string>
+    <string name="menu_button_openssForum">Forum</string>
+    <string name="menu_button_openssModdb">ModDB</string>
+    <string name="menu_button_openAboutApp">About \nApp</string>
+    <string name="menu_button_openAboutSS">About \nSTALKERSOUP</string>
+    <string name="menu_button_openAboutCodeonion">About Codeonion</string>
+    <string-array name="oldssguide_chapters">
+        <item>Your First Day</item>
+        <item>Search For The Lost Expedition</item>
+        <item>Quest For Arkharas Notebook</item>
+        <item>Begin Search For Ghost and Fangs Murderer</item>
+        <item>The search for Fang\'s Killer 1</item>
+        <item>The Search for Ghost</item>
+        <item>Clear Sky Quests</item>
+        <item>Kostya Quests, Search For The Black Doctor</item>
+        <item>The search for boxes and safes of the Mysterious Stalker</item>
+        <item>Continued search for a Mysterious Stalker</item>
+        <item>Fangs Quests \(Varlab\, Red Forest\)</item>
+        <item>How to get the Heart of the Poltergeist Artefact</item>
+        <item>Fangs Quests Continued in the Old Village</item>
+        <item>Generators or the elusive Astrologer</item>
+        <item>Boom</item>
+        <item>Lightning quests and searches in the Dead City (Limansk)</item>
+        <item>Kostya and his caches\?</item>
+    </string-array>
+</resources>
